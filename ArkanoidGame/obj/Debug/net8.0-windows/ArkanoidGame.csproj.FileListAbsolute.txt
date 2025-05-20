@@ -1,0 +1,97 @@
+C:\Users\magda\OneDrive\Pulpit\Arkanoid\ArkanoidGame\bin\Debug\net8.0-windows\ArkanoidGame.exe
+C:\Users\magda\OneDrive\Pulpit\Arkanoid\ArkanoidGame\bin\Debug\net8.0-windows\ArkanoidGame.deps.json
+C:\Users\magda\OneDrive\Pulpit\Arkanoid\ArkanoidGame\bin\Debug\net8.0-windows\ArkanoidGame.runtimeconfig.json
+C:\Users\magda\OneDrive\Pulpit\Arkanoid\ArkanoidGame\bin\Debug\net8.0-windows\ArkanoidGame.dll
+C:\Users\magda\OneDrive\Pulpit\Arkanoid\ArkanoidGame\bin\Debug\net8.0-windows\ArkanoidGame.pdb
+C:\Users\magda\OneDrive\Pulpit\Arkanoid\ArkanoidGame\obj\Debug\net8.0-windows\ArkanoidGame.Arkanoid.resources
+C:\Users\magda\OneDrive\Pulpit\Arkanoid\ArkanoidGame\obj\Debug\net8.0-windows\ArkanoidGame.csproj.GenerateResource.cache
+C:\Users\magda\OneDrive\Pulpit\Arkanoid\ArkanoidGame\obj\Debug\net8.0-windows\ArkanoidGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magda\OneDrive\Pulpit\Arkanoid\ArkanoidGame\obj\Debug\net8.0-windows\ArkanoidGame.AssemblyInfoInputs.cache
+C:\Users\magda\OneDrive\Pulpit\Arkanoid\ArkanoidGame\obj\Debug\net8.0-windows\ArkanoidGame.AssemblyInfo.cs
+C:\Users\magda\OneDrive\Pulpit\Arkanoid\ArkanoidGame\obj\Debug\net8.0-windows\ArkanoidGame.csproj.CoreCompileInputs.cache
+C:\Users\magda\OneDrive\Pulpit\Arkanoid\ArkanoidGame\obj\Debug\net8.0-windows\ArkanoidGame.dll
+C:\Users\magda\OneDrive\Pulpit\Arkanoid\ArkanoidGame\obj\Debug\net8.0-windows\refint\ArkanoidGame.dll
+C:\Users\magda\OneDrive\Pulpit\Arkanoid\ArkanoidGame\obj\Debug\net8.0-windows\ArkanoidGame.pdb
+C:\Users\magda\OneDrive\Pulpit\Arkanoid\ArkanoidGame\obj\Debug\net8.0-windows\ArkanoidGame.genruntimeconfig.cache
+C:\Users\magda\OneDrive\Pulpit\Arkanoid\ArkanoidGame\obj\Debug\net8.0-windows\ref\ArkanoidGame.dll
+C:\Users\magda\Desktop\Studia\Semestr VI\Komponenty - popławski\Arkanoid\arkanoid2\ArkanoidGame\bin\Debug\net8.0-windows\ArkanoidGame.exe
+C:\Users\magda\Desktop\Studia\Semestr VI\Komponenty - popławski\Arkanoid\arkanoid2\ArkanoidGame\bin\Debug\net8.0-windows\ArkanoidGame.deps.json
+C:\Users\magda\Desktop\Studia\Semestr VI\Komponenty - popławski\Arkanoid\arkanoid2\ArkanoidGame\bin\Debug\net8.0-windows\ArkanoidGame.runtimeconfig.json
+C:\Users\magda\Desktop\Studia\Semestr VI\Komponenty - popławski\Arkanoid\arkanoid2\ArkanoidGame\bin\Debug\net8.0-windows\ArkanoidGame.dll
+C:\Users\magda\Desktop\Studia\Semestr VI\Komponenty - popławski\Arkanoid\arkanoid2\ArkanoidGame\bin\Debug\net8.0-windows\ArkanoidGame.pdb
+C:\Users\magda\Desktop\Studia\Semestr VI\Komponenty - popławski\Arkanoid\arkanoid2\ArkanoidGame\obj\Debug\net8.0-windows\ArkanoidGame.Arkanoid.resources
+C:\Users\magda\Desktop\Studia\Semestr VI\Komponenty - popławski\Arkanoid\arkanoid2\ArkanoidGame\obj\Debug\net8.0-windows\ArkanoidGame.csproj.GenerateResource.cache
+C:\Users\magda\Desktop\Studia\Semestr VI\Komponenty - popławski\Arkanoid\arkanoid2\ArkanoidGame\obj\Debug\net8.0-windows\ArkanoidGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magda\Desktop\Studia\Semestr VI\Komponenty - popławski\Arkanoid\arkanoid2\ArkanoidGame\obj\Debug\net8.0-windows\ArkanoidGame.AssemblyInfoInputs.cache
+C:\Users\magda\Desktop\Studia\Semestr VI\Komponenty - popławski\Arkanoid\arkanoid2\ArkanoidGame\obj\Debug\net8.0-windows\ArkanoidGame.AssemblyInfo.cs
+C:\Users\magda\Desktop\Studia\Semestr VI\Komponenty - popławski\Arkanoid\arkanoid2\ArkanoidGame\obj\Debug\net8.0-windows\ArkanoidGame.csproj.CoreCompileInputs.cache
+C:\Users\magda\Desktop\Studia\Semestr VI\Komponenty - popławski\Arkanoid\arkanoid2\ArkanoidGame\obj\Debug\net8.0-windows\ArkanoidGame.dll
+C:\Users\magda\Desktop\Studia\Semestr VI\Komponenty - popławski\Arkanoid\arkanoid2\ArkanoidGame\obj\Debug\net8.0-windows\refint\ArkanoidGame.dll
+C:\Users\magda\Desktop\Studia\Semestr VI\Komponenty - popławski\Arkanoid\arkanoid2\ArkanoidGame\obj\Debug\net8.0-windows\ArkanoidGame.pdb
+C:\Users\magda\Desktop\Studia\Semestr VI\Komponenty - popławski\Arkanoid\arkanoid2\ArkanoidGame\obj\Debug\net8.0-windows\ArkanoidGame.genruntimeconfig.cache
+C:\Users\magda\Desktop\Studia\Semestr VI\Komponenty - popławski\Arkanoid\arkanoid2\ArkanoidGame\obj\Debug\net8.0-windows\ref\ArkanoidGame.dll
+C:\Users\magda\Desktop\Studia\Semestr VI\Komponenty - popławski\Arkanoid_kopia_2\ArkanoidGame\bin\Debug\net8.0-windows\ArkanoidGame.exe
+C:\Users\magda\Desktop\Studia\Semestr VI\Komponenty - popławski\Arkanoid_kopia_2\ArkanoidGame\bin\Debug\net8.0-windows\ArkanoidGame.deps.json
+C:\Users\magda\Desktop\Studia\Semestr VI\Komponenty - popławski\Arkanoid_kopia_2\ArkanoidGame\bin\Debug\net8.0-windows\ArkanoidGame.runtimeconfig.json
+C:\Users\magda\Desktop\Studia\Semestr VI\Komponenty - popławski\Arkanoid_kopia_2\ArkanoidGame\bin\Debug\net8.0-windows\ArkanoidGame.dll
+C:\Users\magda\Desktop\Studia\Semestr VI\Komponenty - popławski\Arkanoid_kopia_2\ArkanoidGame\bin\Debug\net8.0-windows\ArkanoidGame.pdb
+C:\Users\magda\Desktop\Studia\Semestr VI\Komponenty - popławski\Arkanoid_kopia_2\ArkanoidGame\obj\Debug\net8.0-windows\ArkanoidGame.Arkanoid.resources
+C:\Users\magda\Desktop\Studia\Semestr VI\Komponenty - popławski\Arkanoid_kopia_2\ArkanoidGame\obj\Debug\net8.0-windows\ArkanoidGame.csproj.GenerateResource.cache
+C:\Users\magda\Desktop\Studia\Semestr VI\Komponenty - popławski\Arkanoid_kopia_2\ArkanoidGame\obj\Debug\net8.0-windows\ArkanoidGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magda\Desktop\Studia\Semestr VI\Komponenty - popławski\Arkanoid_kopia_2\ArkanoidGame\obj\Debug\net8.0-windows\ArkanoidGame.AssemblyInfoInputs.cache
+C:\Users\magda\Desktop\Studia\Semestr VI\Komponenty - popławski\Arkanoid_kopia_2\ArkanoidGame\obj\Debug\net8.0-windows\ArkanoidGame.AssemblyInfo.cs
+C:\Users\magda\Desktop\Studia\Semestr VI\Komponenty - popławski\Arkanoid_kopia_2\ArkanoidGame\obj\Debug\net8.0-windows\ArkanoidGame.csproj.CoreCompileInputs.cache
+C:\Users\magda\Desktop\Studia\Semestr VI\Komponenty - popławski\Arkanoid_kopia_2\ArkanoidGame\obj\Debug\net8.0-windows\ArkanoidGame.dll
+C:\Users\magda\Desktop\Studia\Semestr VI\Komponenty - popławski\Arkanoid_kopia_2\ArkanoidGame\obj\Debug\net8.0-windows\refint\ArkanoidGame.dll
+C:\Users\magda\Desktop\Studia\Semestr VI\Komponenty - popławski\Arkanoid_kopia_2\ArkanoidGame\obj\Debug\net8.0-windows\ArkanoidGame.pdb
+C:\Users\magda\Desktop\Studia\Semestr VI\Komponenty - popławski\Arkanoid_kopia_2\ArkanoidGame\obj\Debug\net8.0-windows\ArkanoidGame.genruntimeconfig.cache
+C:\Users\magda\Desktop\Studia\Semestr VI\Komponenty - popławski\Arkanoid_kopia_2\ArkanoidGame\obj\Debug\net8.0-windows\ref\ArkanoidGame.dll
+C:\Users\magda\Desktop\Studia\Semestr VI\Komponenty - popławski\Arkanoid_classes\ArkanoidGame\bin\Debug\net8.0-windows\ArkanoidGame.exe
+C:\Users\magda\Desktop\Studia\Semestr VI\Komponenty - popławski\Arkanoid_classes\ArkanoidGame\bin\Debug\net8.0-windows\ArkanoidGame.deps.json
+C:\Users\magda\Desktop\Studia\Semestr VI\Komponenty - popławski\Arkanoid_classes\ArkanoidGame\bin\Debug\net8.0-windows\ArkanoidGame.runtimeconfig.json
+C:\Users\magda\Desktop\Studia\Semestr VI\Komponenty - popławski\Arkanoid_classes\ArkanoidGame\bin\Debug\net8.0-windows\ArkanoidGame.dll
+C:\Users\magda\Desktop\Studia\Semestr VI\Komponenty - popławski\Arkanoid_classes\ArkanoidGame\bin\Debug\net8.0-windows\ArkanoidGame.pdb
+C:\Users\magda\Desktop\Studia\Semestr VI\Komponenty - popławski\Arkanoid_classes\ArkanoidGame\obj\Debug\net8.0-windows\ArkanoidGame.Arkanoid.resources
+C:\Users\magda\Desktop\Studia\Semestr VI\Komponenty - popławski\Arkanoid_classes\ArkanoidGame\obj\Debug\net8.0-windows\ArkanoidGame.csproj.GenerateResource.cache
+C:\Users\magda\Desktop\Studia\Semestr VI\Komponenty - popławski\Arkanoid_classes\ArkanoidGame\obj\Debug\net8.0-windows\ArkanoidGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magda\Desktop\Studia\Semestr VI\Komponenty - popławski\Arkanoid_classes\ArkanoidGame\obj\Debug\net8.0-windows\ArkanoidGame.AssemblyInfoInputs.cache
+C:\Users\magda\Desktop\Studia\Semestr VI\Komponenty - popławski\Arkanoid_classes\ArkanoidGame\obj\Debug\net8.0-windows\ArkanoidGame.AssemblyInfo.cs
+C:\Users\magda\Desktop\Studia\Semestr VI\Komponenty - popławski\Arkanoid_classes\ArkanoidGame\obj\Debug\net8.0-windows\ArkanoidGame.csproj.CoreCompileInputs.cache
+C:\Users\magda\Desktop\Studia\Semestr VI\Komponenty - popławski\Arkanoid_classes\ArkanoidGame\obj\Debug\net8.0-windows\ArkanoidGame.dll
+C:\Users\magda\Desktop\Studia\Semestr VI\Komponenty - popławski\Arkanoid_classes\ArkanoidGame\obj\Debug\net8.0-windows\refint\ArkanoidGame.dll
+C:\Users\magda\Desktop\Studia\Semestr VI\Komponenty - popławski\Arkanoid_classes\ArkanoidGame\obj\Debug\net8.0-windows\ArkanoidGame.pdb
+C:\Users\magda\Desktop\Studia\Semestr VI\Komponenty - popławski\Arkanoid_classes\ArkanoidGame\obj\Debug\net8.0-windows\ArkanoidGame.genruntimeconfig.cache
+C:\Users\magda\Desktop\Studia\Semestr VI\Komponenty - popławski\Arkanoid_classes\ArkanoidGame\obj\Debug\net8.0-windows\ref\ArkanoidGame.dll
+C:\Users\magda\Desktop\Studia\Semestr VI\Komponenty - popławski\Arkanoid_classes — kopia\ArkanoidGame\bin\Debug\net8.0-windows\ArkanoidGame.exe
+C:\Users\magda\Desktop\Studia\Semestr VI\Komponenty - popławski\Arkanoid_classes — kopia\ArkanoidGame\bin\Debug\net8.0-windows\ArkanoidGame.deps.json
+C:\Users\magda\Desktop\Studia\Semestr VI\Komponenty - popławski\Arkanoid_classes — kopia\ArkanoidGame\bin\Debug\net8.0-windows\ArkanoidGame.runtimeconfig.json
+C:\Users\magda\Desktop\Studia\Semestr VI\Komponenty - popławski\Arkanoid_classes — kopia\ArkanoidGame\bin\Debug\net8.0-windows\ArkanoidGame.dll
+C:\Users\magda\Desktop\Studia\Semestr VI\Komponenty - popławski\Arkanoid_classes — kopia\ArkanoidGame\bin\Debug\net8.0-windows\ArkanoidGame.pdb
+C:\Users\magda\Desktop\Studia\Semestr VI\Komponenty - popławski\Arkanoid_classes — kopia\ArkanoidGame\obj\Debug\net8.0-windows\ArkanoidGame.Arkanoid.resources
+C:\Users\magda\Desktop\Studia\Semestr VI\Komponenty - popławski\Arkanoid_classes — kopia\ArkanoidGame\obj\Debug\net8.0-windows\ArkanoidGame.csproj.GenerateResource.cache
+C:\Users\magda\Desktop\Studia\Semestr VI\Komponenty - popławski\Arkanoid_classes — kopia\ArkanoidGame\obj\Debug\net8.0-windows\ArkanoidGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magda\Desktop\Studia\Semestr VI\Komponenty - popławski\Arkanoid_classes — kopia\ArkanoidGame\obj\Debug\net8.0-windows\ArkanoidGame.AssemblyInfoInputs.cache
+C:\Users\magda\Desktop\Studia\Semestr VI\Komponenty - popławski\Arkanoid_classes — kopia\ArkanoidGame\obj\Debug\net8.0-windows\ArkanoidGame.AssemblyInfo.cs
+C:\Users\magda\Desktop\Studia\Semestr VI\Komponenty - popławski\Arkanoid_classes — kopia\ArkanoidGame\obj\Debug\net8.0-windows\ArkanoidGame.csproj.CoreCompileInputs.cache
+C:\Users\magda\Desktop\Studia\Semestr VI\Komponenty - popławski\Arkanoid_classes — kopia\ArkanoidGame\obj\Debug\net8.0-windows\ArkanoidGame.dll
+C:\Users\magda\Desktop\Studia\Semestr VI\Komponenty - popławski\Arkanoid_classes — kopia\ArkanoidGame\obj\Debug\net8.0-windows\refint\ArkanoidGame.dll
+C:\Users\magda\Desktop\Studia\Semestr VI\Komponenty - popławski\Arkanoid_classes — kopia\ArkanoidGame\obj\Debug\net8.0-windows\ArkanoidGame.pdb
+C:\Users\magda\Desktop\Studia\Semestr VI\Komponenty - popławski\Arkanoid_classes — kopia\ArkanoidGame\obj\Debug\net8.0-windows\ArkanoidGame.genruntimeconfig.cache
+C:\Users\magda\Desktop\Studia\Semestr VI\Komponenty - popławski\Arkanoid_classes — kopia\ArkanoidGame\obj\Debug\net8.0-windows\ref\ArkanoidGame.dll
+E:\PK Studia\Archiwum - semestr VI\Komponenty - popławski\Arkanoid_classes — kopia\ArkanoidGame\bin\Debug\net8.0-windows\ArkanoidGame.exe
+E:\PK Studia\Archiwum - semestr VI\Komponenty - popławski\Arkanoid_classes — kopia\ArkanoidGame\bin\Debug\net8.0-windows\ArkanoidGame.deps.json
+E:\PK Studia\Archiwum - semestr VI\Komponenty - popławski\Arkanoid_classes — kopia\ArkanoidGame\bin\Debug\net8.0-windows\ArkanoidGame.runtimeconfig.json
+E:\PK Studia\Archiwum - semestr VI\Komponenty - popławski\Arkanoid_classes — kopia\ArkanoidGame\bin\Debug\net8.0-windows\ArkanoidGame.dll
+E:\PK Studia\Archiwum - semestr VI\Komponenty - popławski\Arkanoid_classes — kopia\ArkanoidGame\bin\Debug\net8.0-windows\ArkanoidGame.pdb
+E:\PK Studia\Archiwum - semestr VI\Komponenty - popławski\Arkanoid_classes — kopia\ArkanoidGame\obj\Debug\net8.0-windows\ArkanoidGame.Arkanoid.resources
+E:\PK Studia\Archiwum - semestr VI\Komponenty - popławski\Arkanoid_classes — kopia\ArkanoidGame\obj\Debug\net8.0-windows\ArkanoidGame.MenuForm.resources
+E:\PK Studia\Archiwum - semestr VI\Komponenty - popławski\Arkanoid_classes — kopia\ArkanoidGame\obj\Debug\net8.0-windows\ArkanoidGame.csproj.GenerateResource.cache
+E:\PK Studia\Archiwum - semestr VI\Komponenty - popławski\Arkanoid_classes — kopia\ArkanoidGame\obj\Debug\net8.0-windows\ArkanoidGame.GeneratedMSBuildEditorConfig.editorconfig
+E:\PK Studia\Archiwum - semestr VI\Komponenty - popławski\Arkanoid_classes — kopia\ArkanoidGame\obj\Debug\net8.0-windows\ArkanoidGame.AssemblyInfoInputs.cache
+E:\PK Studia\Archiwum - semestr VI\Komponenty - popławski\Arkanoid_classes — kopia\ArkanoidGame\obj\Debug\net8.0-windows\ArkanoidGame.AssemblyInfo.cs
+E:\PK Studia\Archiwum - semestr VI\Komponenty - popławski\Arkanoid_classes — kopia\ArkanoidGame\obj\Debug\net8.0-windows\ArkanoidGame.csproj.CoreCompileInputs.cache
+E:\PK Studia\Archiwum - semestr VI\Komponenty - popławski\Arkanoid_classes — kopia\ArkanoidGame\obj\Debug\net8.0-windows\ArkanoidGame.dll
+E:\PK Studia\Archiwum - semestr VI\Komponenty - popławski\Arkanoid_classes — kopia\ArkanoidGame\obj\Debug\net8.0-windows\refint\ArkanoidGame.dll
+E:\PK Studia\Archiwum - semestr VI\Komponenty - popławski\Arkanoid_classes — kopia\ArkanoidGame\obj\Debug\net8.0-windows\ArkanoidGame.pdb
+E:\PK Studia\Archiwum - semestr VI\Komponenty - popławski\Arkanoid_classes — kopia\ArkanoidGame\obj\Debug\net8.0-windows\ArkanoidGame.genruntimeconfig.cache
+E:\PK Studia\Archiwum - semestr VI\Komponenty - popławski\Arkanoid_classes — kopia\ArkanoidGame\obj\Debug\net8.0-windows\ref\ArkanoidGame.dll
